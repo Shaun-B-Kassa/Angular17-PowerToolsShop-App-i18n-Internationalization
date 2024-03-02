@@ -1,4 +1,34 @@
 {
   "locale": "en-US",
-  "translations": {}
+  "translations": {
+    "6064183560205923757": "Shopping Cart {$HORIZONTAL_RULE}",
+    "9042667883224287221": "image of {$INTERPOLATION}",
+    "4857478369622199138": "ITEM #{$INTERPOLATION}",
+    "7022070615528435141": "Delete",
+    "870418232806327600": "Subtotal",
+    "5972351850683239127": "Shipping",
+    "8580031500056090712": "Sales Tax",
+    "5001532695164712567": "Estimated Total",
+    "7398781869480847692": "Discount code or gift card",
+    "4391289919356861627": "Apply",
+    "4776389683576645610": "Checkout",
+    "6314154275449864797": "Shipping {$ICU} items",
+    "2221152502945358628": "{VAR_PLURAL, plural, =1 {one} other {multiple {VAR_SELECT, select, true {refrigerated} false {non-refrigerated}}}}",
+    "8307295696686746938": "Power Tools Shop Logo",
+    "1147358182484006761": "Shop",
+    "1003499966051544275": "Store",
+    "383654359613709533": "shopping cart",
+    "siteLogo": "Image of homemade blueberry pie",
+    "8313823076164063832": "Logomark for Bethany's Pies",
+    "siteDescription": "Tools for every occasion",
+    "6759650521623887168": "Visit our store or ship to your home",
+    "817489971930837765": "Translet menu text",
+    "3858664913982475912": "Take it home today!",
+    "1579325782690986128": "New arraivals on {$INTERPOLATION}",
+    "8356421868197579888": "+ Add to cart",
+    "6445200850143529978": "What's arriving today?",
+    "2543541866311748854": "Simplify your work piking up our latest tools",
+    "6686568732262946628": "Ready {$ICU}",
+    "2585786410821624928": "{VAR_PLURAL, plural, = 0 {now} = 5 {soon} other {in a while}}"
+  }
 }
